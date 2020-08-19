@@ -1,0 +1,215 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="cliente_t"><param name="Local" value="structcliente__t.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cod_fiscale"><param name="Local" value="structcliente__t.html#a5ad820d0719f46ba0d26659df6edf590"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cognome"><param name="Local" value="structcliente__t.html#ac485c0ee67fe268e4649c5553232d3ea"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="email"><param name="Local" value="structcliente__t.html#aeff48efbc1caea7e6017cc463d8b4460"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="nascita"><param name="Local" value="structcliente__t.html#a5ef2e5eae9c5d4c6f91c9af161553f2d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="nome"><param name="Local" value="structcliente__t.html#afce94438778878188bd84dd0807c2106"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="password"><param name="Local" value="structcliente__t.html#a0b0b87ad37d05ea4f456d95e8e1ea733"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="sconto"><param name="Local" value="structcliente__t.html#a6e19d892828244541c06b7f370844320"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="data_t"><param name="Local" value="structdata__t.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="anno"><param name="Local" value="structdata__t.html#abb40c29b64d4883fa1051b968064907b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="giorno"><param name="Local" value="structdata__t.html#a0c45f6527a752ce216fd9028ad65f20c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="mese"><param name="Local" value="structdata__t.html#add018ca5ef52653641ea75aab2edf69c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ombrellone_t"><param name="Local" value="structombrellone__t.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="check"><param name="Local" value="structombrellone__t.html#a789038388c6ff5dce6f07bb6cb1c1f3b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="doppia_prenotazione"><param name="Local" value="structombrellone__t.html#afac37121dc447374d2a539f68a2d2fc2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="fila_o"><param name="Local" value="structombrellone__t.html#af41e0119876696cd618f70e2a36b1ddb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ombrellone"><param name="Local" value="structombrellone__t.html#a728b26dfe350e7faac93c47478a4141c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="pren_ombr_disponibile_t"><param name="Local" value="structpren__ombr__disponibile__t.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ombrelloni"><param name="Local" value="structpren__ombr__disponibile__t.html#a7e21344831139cc0e6c2828aefde1c5a"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="prenotazione_t"><param name="Local" value="structprenotazione__t.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cod"><param name="Local" value="structprenotazione__t.html#a968cb846398b209bce39dafb23ac7fee"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="costo"><param name="Local" value="structprenotazione__t.html#a21128cab4cd22d63429dfbc8f9b15f91"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="data"><param name="Local" value="structprenotazione__t.html#ad739ed097857e0a01f95c0576d72a7c4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="email"><param name="Local" value="structprenotazione__t.html#ac1c050f1e2890892fcd2fd8a6e1326b2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="num_lettini"><param name="Local" value="structprenotazione__t.html#a46f3d622a1935fe9e5f006d794194329"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="num_ombrellone"><param name="Local" value="structprenotazione__t.html#a4cb0baf025d990db80e856697489ffa9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="num_sedie"><param name="Local" value="structprenotazione__t.html#a38e12d821105e1f52db1ffff044f3cac"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="tipo"><param name="Local" value="structprenotazione__t.html#a0ff20d9b205632d4a9ec3d91c92589e6"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structure Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Fields"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="f_all_shared.c"><param name="Local" value="f__all__shared_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="calcola_totale"><param name="Local" value="f__all__shared_8c.html#a3ac1e4edba169013b6df9212a1774521"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="confronta_prenotazione_data_input"><param name="Local" value="f__all__shared_8c.html#a81a86d587473b1e304e0387744fc28f9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="controlla_tipo_giornata"><param name="Local" value="f__all__shared_8c.html#ad56bd52c82a65b5e65e0b8aa73aa7f43"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="controllo_data"><param name="Local" value="f__all__shared_8c.html#ab911ee532f05fa0992467b6e57fa2b0c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="leggi_conta_csv_clienti"><param name="Local" value="f__all__shared_8c.html#ac8d818a7ee58ad869997afc8a4ad54ba"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="leggi_conta_csv_prenotazioni"><param name="Local" value="f__all__shared_8c.html#a908bb1917f94c70163ca5883919e3bf2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="login"><param name="Local" value="f__all__shared_8c.html#afb5a63cfac5abe727cc2920ca3dbfefe"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stampa_a_video_prenotazione"><param name="Local" value="f__all__shared_8c.html#a61a0ac1c317f1816e00438f2fa26d123"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stampa_ombrelloni_liberi"><param name="Local" value="f__all__shared_8c.html#a4be0eadd68d70ae708992f5354c25365"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stampa_prenotazione"><param name="Local" value="f__all__shared_8c.html#aaa876d2da3e4df05609bc8916e7d4d07"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stampa_tipo"><param name="Local" value="f__all__shared_8c.html#ae2e540ec065497b6882bebd33c252add"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="verifica_disp_tutti_ombrelloni"><param name="Local" value="f__all__shared_8c.html#a991c550ba0ea01ef8d9c86897eefaa33"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="verifica_email"><param name="Local" value="f__all__shared_8c.html#a11adf6da6140cea19e63075f0f57eb48"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="verifica_password"><param name="Local" value="f__all__shared_8c.html#a7444cf35582435079b5cabcf539be263"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="f_all_shared.h"><param name="Local" value="f__all__shared_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="calcola_totale"><param name="Local" value="f__all__shared_8h.html#ada376481dc69b70773e35881718d5c78"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="confronta_prenotazione_data_input"><param name="Local" value="f__all__shared_8h.html#a5a16757397e4f107bdfb713ffb26beac"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="controlla_tipo_giornata"><param name="Local" value="f__all__shared_8h.html#a3cfbc2f90db16ecd4ae69606cbf2c776"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="controllo_data"><param name="Local" value="f__all__shared_8h.html#a080ce9823348b87789c8d0999b951ad2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="leggi_conta_csv_clienti"><param name="Local" value="f__all__shared_8h.html#a8858b660c4b79edbac8b405c4cdad2c7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="leggi_conta_csv_prenotazioni"><param name="Local" value="f__all__shared_8h.html#ade6de102d6d0de75bec17016f2b016bd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="login"><param name="Local" value="f__all__shared_8h.html#add4ef47930b2e8bded12ac265527e6a4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stampa_a_video_prenotazione"><param name="Local" value="f__all__shared_8h.html#a134688cb48772433e6ddaaf66a041531"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stampa_ombrelloni_liberi"><param name="Local" value="f__all__shared_8h.html#ae686a5db1f14e87977a2a3b9b32146d3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stampa_prenotazione"><param name="Local" value="f__all__shared_8h.html#a2400f82895540f7f1985cf8def4a617c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stampa_tipo"><param name="Local" value="f__all__shared_8h.html#a80657089abee13ba6cd2da85e8a42c39"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="verifica_disp_tutti_ombrelloni"><param name="Local" value="f__all__shared_8h.html#ad6dd83fc3b97b6870036bcebfd9c9266"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="verifica_email"><param name="Local" value="f__all__shared_8h.html#a79866c6c0c351c81de66913e6a0207c5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="verifica_password"><param name="Local" value="f__all__shared_8h.html#a55a9bbfd136f0cc8ac2943fd3c032f6e"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="f_disp.c"><param name="Local" value="f__disp_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="confronta_prenotazione_fila"><param name="Local" value="f__disp_8c.html#a933d10cbc78cd09749e08ed27da373c4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="modifica_num_ombrellone_prenotazione"><param name="Local" value="f__disp_8c.html#a30554ee25d6f3fae08657bd13663d0f4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="modifica_prenotazione_tipo_ombrellone"><param name="Local" value="f__disp_8c.html#acca1295c405b3df69dd15c9de2b17f17"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="modifica_tipo_prenotazione"><param name="Local" value="f__disp_8c.html#a20d6c6b1b851fc1095abf12561a92da9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ombrelloni_disponibili_fila"><param name="Local" value="f__disp_8c.html#ae8f76a1e6aad87a9675ae2ffe48c0435"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ombrelloni_disponibili_fila_cresc_decr"><param name="Local" value="f__disp_8c.html#a7dae08a4dadaa072f8b182dc508a6217"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="f_disp.h"><param name="Local" value="f__disp_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="confronta_prenotazione_fila"><param name="Local" value="f__disp_8h.html#ae65952a6581af3bbf2ab3ed01f0f58e5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="modifica_num_ombrellone_prenotazione"><param name="Local" value="f__disp_8h.html#a73cef7aaef74d7472396221561627aa8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="modifica_prenotazione_tipo_ombrellone"><param name="Local" value="f__disp_8h.html#a4eb546fdb8917da86268b00a3838a56e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="modifica_tipo_prenotazione"><param name="Local" value="f__disp_8h.html#ad52dd30d2032ed461551b91f44db4d1a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ombrelloni_disponibili_fila"><param name="Local" value="f__disp_8h.html#a0b8b318c7e83460addce405b3b9e9d12"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ombrelloni_disponibili_fila_cresc_decr"><param name="Local" value="f__disp_8h.html#a30e41ed0c13a4dbcecba9212de733c63"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="f_edit_client.c"><param name="Local" value="f__edit__client_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="modifica_dati"><param name="Local" value="f__edit__client_8c.html#ab23acd4ec8557cb01b9bd045eb3f1c85"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stampa_clienti"><param name="Local" value="f__edit__client_8c.html#a7a5582ad36a279ddd5719798f3cc7ecc"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="f_edit_client.h"><param name="Local" value="f__edit__client_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="modifica_dati"><param name="Local" value="f__edit__client_8h.html#a0b21e8d83d8efb31555f69f5ac4a56a7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stampa_clienti"><param name="Local" value="f__edit__client_8h.html#a1cf2275aa57b14579b98c52e8d939448"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="f_new_pren.c"><param name="Local" value="f__new__pren_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="confronta_prenotazione_num_ombrellone_fila"><param name="Local" value="f__new__pren_8c.html#a134fd99bf6c010426cfa637edb0f3262"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="lettini"><param name="Local" value="f__new__pren_8c.html#a9e7e605d9a9efc8d152517e74bd99e1a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="prenota_ombrellone"><param name="Local" value="f__new__pren_8c.html#a69e7ed24179a3fab4791861faf0c7b5d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="sedie"><param name="Local" value="f__new__pren_8c.html#a7926c96872ec5ce585b6b0b79de2f539"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stampa_nuova_prenotazione"><param name="Local" value="f__new__pren_8c.html#a69d0fcec3d04bf57d4d31b0089013c7a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="tipo_mpg"><param name="Local" value="f__new__pren_8c.html#a30486b4622a74a9ba1aba74c8c16a664"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="f_new_pren.h"><param name="Local" value="f__new__pren_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="confronta_prenotazione_num_ombrellone_fila"><param name="Local" value="f__new__pren_8h.html#a0f9f3d6e7c335e272fc864f96416d73d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="lettini"><param name="Local" value="f__new__pren_8h.html#a9e7e605d9a9efc8d152517e74bd99e1a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="prenota_ombrellone"><param name="Local" value="f__new__pren_8h.html#a4f9f15036c3e0b3d26f33392f0e2fbcb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="sedie"><param name="Local" value="f__new__pren_8h.html#a7926c96872ec5ce585b6b0b79de2f539"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stampa_nuova_prenotazione"><param name="Local" value="f__new__pren_8h.html#aea9366517bc46fd527eb5a67c367cf11"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="tipo_mpg"><param name="Local" value="f__new__pren_8h.html#a30486b4622a74a9ba1aba74c8c16a664"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="f_out_remove_pren.c"><param name="Local" value="f__out__remove__pren_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="data_estesa"><param name="Local" value="f__out__remove__pren_8c.html#a35b2ee37efd1db000fcb14dbb9cd9bf0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ordinamento_prenotazioni_data"><param name="Local" value="f__out__remove__pren_8c.html#a087af6f502e7339b3672457252c1bd64"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rimuovi_prenotazione"><param name="Local" value="f__out__remove__pren_8c.html#adb2748d32a0c8a0cde279a04599b58ec"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="salva_prenotazioni_per_data"><param name="Local" value="f__out__remove__pren_8c.html#a7cb0e52d08e4bf3a164dde4f47c615e2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stampa_rimuovi_prenotazione"><param name="Local" value="f__out__remove__pren_8c.html#a6c6269f7148fd301a2b8437be5ad7f10"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="f_out_remove_pren.h"><param name="Local" value="f__out__remove__pren_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="data_estesa"><param name="Local" value="f__out__remove__pren_8h.html#aff2c375bd320642ac05a700127443d07"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ordinamento_prenotazioni_data"><param name="Local" value="f__out__remove__pren_8h.html#a5f8088acfa9fee2d46478f5e3aa62e3a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rimuovi_prenotazione"><param name="Local" value="f__out__remove__pren_8h.html#aa4ab60d4a44d18bc63f5b7ddc240e6e0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="salva_prenotazioni_per_data"><param name="Local" value="f__out__remove__pren_8h.html#af3b705e5a6d086ca6aa8eab2ac1dd5d3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stampa_rimuovi_prenotazione"><param name="Local" value="f__out__remove__pren_8h.html#a2f19988c0afe68e39874cd2eb30c1d70"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="main.h"><param name="Local" value="main_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="data_t"><param name="Local" value="structdata__t.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="anno"><param name="Local" value="structdata__t.html#abb40c29b64d4883fa1051b968064907b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="giorno"><param name="Local" value="structdata__t.html#a0c45f6527a752ce216fd9028ad65f20c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="mese"><param name="Local" value="structdata__t.html#add018ca5ef52653641ea75aab2edf69c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cliente_t"><param name="Local" value="structcliente__t.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="cod_fiscale"><param name="Local" value="structcliente__t.html#a5ad820d0719f46ba0d26659df6edf590"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="cognome"><param name="Local" value="structcliente__t.html#ac485c0ee67fe268e4649c5553232d3ea"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="email"><param name="Local" value="structcliente__t.html#aeff48efbc1caea7e6017cc463d8b4460"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="nascita"><param name="Local" value="structcliente__t.html#a5ef2e5eae9c5d4c6f91c9af161553f2d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="nome"><param name="Local" value="structcliente__t.html#afce94438778878188bd84dd0807c2106"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="password"><param name="Local" value="structcliente__t.html#a0b0b87ad37d05ea4f456d95e8e1ea733"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="sconto"><param name="Local" value="structcliente__t.html#a6e19d892828244541c06b7f370844320"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ombrellone_t"><param name="Local" value="structombrellone__t.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="check"><param name="Local" value="structombrellone__t.html#a789038388c6ff5dce6f07bb6cb1c1f3b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="doppia_prenotazione"><param name="Local" value="structombrellone__t.html#afac37121dc447374d2a539f68a2d2fc2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="fila_o"><param name="Local" value="structombrellone__t.html#af41e0119876696cd618f70e2a36b1ddb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ombrellone"><param name="Local" value="structombrellone__t.html#a728b26dfe350e7faac93c47478a4141c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="prenotazione_t"><param name="Local" value="structprenotazione__t.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="cod"><param name="Local" value="structprenotazione__t.html#a968cb846398b209bce39dafb23ac7fee"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="costo"><param name="Local" value="structprenotazione__t.html#a21128cab4cd22d63429dfbc8f9b15f91"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="data"><param name="Local" value="structprenotazione__t.html#ad739ed097857e0a01f95c0576d72a7c4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="email"><param name="Local" value="structprenotazione__t.html#ac1c050f1e2890892fcd2fd8a6e1326b2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="num_lettini"><param name="Local" value="structprenotazione__t.html#a46f3d622a1935fe9e5f006d794194329"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="num_ombrellone"><param name="Local" value="structprenotazione__t.html#a4cb0baf025d990db80e856697489ffa9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="num_sedie"><param name="Local" value="structprenotazione__t.html#a38e12d821105e1f52db1ffff044f3cac"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="tipo"><param name="Local" value="structprenotazione__t.html#a0ff20d9b205632d4a9ec3d91c92589e6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="pren_ombr_disponibile_t"><param name="Local" value="structpren__ombr__disponibile__t.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ombrelloni"><param name="Local" value="structpren__ombr__disponibile__t.html#a7e21344831139cc0e6c2828aefde1c5a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="anno_corrente"><param name="Local" value="main_8h.html#a5d4062b0edd723f3f9ef6251170d5580"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="max_file"><param name="Local" value="main_8h.html#a92a1a47b3857171fb375ca0bfe363d32"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="max_ombrelloni"><param name="Local" value="main_8h.html#ae51dea507cb9d9aa4440d626ea1ef49b"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Porgetto_Matteo_Luceri.c"><param name="Local" value="_porgetto___matteo___luceri_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="main"><param name="Local" value="_porgetto___matteo___luceri_8c.html#a840291bc02cba5474a4cb46a9b9566fe"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Globals"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Macros"><param name="Local" value="globals_defs.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

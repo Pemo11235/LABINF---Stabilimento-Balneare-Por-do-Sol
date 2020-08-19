@@ -1,0 +1,65 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Progetto_ML_LabInf
+
+[WINDOWS]
+main="Progetto_ML_LabInf","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+f__all__shared_8c_source.html
+f__all__shared_8h_source.html
+f__disp_8c_source.html
+f__disp_8h_source.html
+f__edit__client_8c_source.html
+f__edit__client_8h_source.html
+f__new__pren_8c_source.html
+f__new__pren_8h_source.html
+f__out__remove__pren_8c_source.html
+f__out__remove__pren_8h_source.html
+main_8h_source.html
+_porgetto___matteo___luceri_8c_source.html
+f__all__shared_8c.html
+f__all__shared_8h.html
+f__disp_8c.html
+f__disp_8h.html
+f__edit__client_8c.html
+f__edit__client_8h.html
+f__new__pren_8c.html
+f__new__pren_8h.html
+f__out__remove__pren_8c.html
+f__out__remove__pren_8h.html
+main_8h.html
+_porgetto___matteo___luceri_8c.html
+structcliente__t.html
+structdata__t.html
+structombrellone__t.html
+structpren__ombr__disponibile__t.html
+structprenotazione__t.html
+index.html
+annotated.html
+classes.html
+functions.html
+functions_vars.html
+files.html
+globals.html
+globals_func.html
+globals_defs.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+sync_on.png
+sync_off.png
