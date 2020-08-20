@@ -1,4 +1,4 @@
-# UNIBA_LABINF-Stabilimento-Balneare
+# UNIBA_LABINF_StabilimentoBalneare
 
 The system simulates an automated management platform of a bathhouse. Specifically, the program will have to deal with what concerns the management of access to the system (access is in relation to the data acquired from files), the modification of data relating to accessing users, the management of daily reservations relating to umbrellas and the consequent management of the availability of these. The system will also take care of the modification and removal of the reservations made and the printing as output of the reservations for each date.
 
